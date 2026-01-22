@@ -1,0 +1,6 @@
+pyspark
+pymongo
+happybase
+pandas
+matplotlib
+numpy
