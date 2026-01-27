@@ -1,0 +1,41 @@
+services:
+  mongo:
+    image: mongo:6
+    container_name: ecommerce_mongo
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_DATABASE: ecommerce
+    volumes:
+      - mongo_data:/data/db
+      - ./data_raw:/import:ro
+    restart: unless-stopped
+
+  mongo_express:
+    image: mongo-express:1.0.2
+    container_name: ecommerce_mongo_express
+    ports:
+      - "8081:8081"
+    environment:
+      ME_CONFIG_MONGODB_SERVER: mongo
+      ME_CONFIG_BASICAUTH: "false"
+    depends_on:
+      - mongo
+    restart: unless-stopped
+
+  hbase:
+    image: harisekhon/hbase:latest
+    container_name: ecommerce_hbase
+    ports:
+      #- "16010:16010"  
+      - "16000:16000" # HBase Master UI
+      #- "16020:16020"
+      - "16030:16030"
+      #- "2181:2181"    # ZooKeeper
+      - "9090:9090"    # Thrift (useful for Python happybase)
+    restart: unless-stopped
+
+
+volumes:
+  mongo_data:
+
