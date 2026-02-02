@@ -1,0 +1,76 @@
+revenue,category_id,year_month,category_name
+70669.97,cat_000,2025-10,"Rodriguez, Figueroa and Sanchez"
+5479122.61,cat_000,2025-11,"Rodriguez, Figueroa and Sanchez"
+5464849.3,cat_000,2025-12,"Rodriguez, Figueroa and Sanchez"
+78392.67,cat_001,2025-10,Baldwin Ltd
+5962578.06,cat_001,2025-11,Baldwin Ltd
+5960576.99,cat_001,2025-12,Baldwin Ltd
+74823.74,cat_002,2025-10,James LLC
+5764947.14,cat_002,2025-11,James LLC
+5718778.11,cat_002,2025-12,James LLC
+84248.2,cat_003,2025-10,Bush Inc
+6598135.56,cat_003,2025-11,Bush Inc
+6478231.09,cat_003,2025-12,Bush Inc
+102836.45,cat_004,2025-10,Kelly-Santiago
+7186204.43,cat_004,2025-11,Kelly-Santiago
+7216547.1,cat_004,2025-12,Kelly-Santiago
+98312.67,cat_005,2025-10,Cameron-Parsons
+7439475.65,cat_005,2025-11,Cameron-Parsons
+7471185.67,cat_005,2025-12,Cameron-Parsons
+84887.95,cat_006,2025-10,"Ellis, Baker and Wright"
+6428312.67,cat_006,2025-11,"Ellis, Baker and Wright"
+6564197.67,cat_006,2025-12,"Ellis, Baker and Wright"
+83514.87,cat_007,2025-10,"Moore, Becker and Carlson"
+6036490.94,cat_007,2025-11,"Moore, Becker and Carlson"
+5951423.05,cat_007,2025-12,"Moore, Becker and Carlson"
+74391.58,cat_008,2025-10,Rodriguez-Graham
+5960328.95,cat_008,2025-11,Rodriguez-Graham
+5839536.42,cat_008,2025-12,Rodriguez-Graham
+77166.58,cat_009,2025-10,Skinner-Romero
+6008345.45,cat_009,2025-11,Skinner-Romero
+6007648.16,cat_009,2025-12,Skinner-Romero
+80693.39,cat_010,2025-10,Burns-Rodriguez
+6738017.83,cat_010,2025-11,Burns-Rodriguez
+6712273.92,cat_010,2025-12,Burns-Rodriguez
+98407.03,cat_011,2025-10,Spence PLC
+6522012.88,cat_011,2025-11,Spence PLC
+6530364.45,cat_011,2025-12,Spence PLC
+100379.19,cat_012,2025-10,Carney-Santos
+6641834.18,cat_012,2025-11,Carney-Santos
+6702164.17,cat_012,2025-12,Carney-Santos
+77231.0,cat_013,2025-10,Smith Ltd
+5766433.14,cat_013,2025-11,Smith Ltd
+5681973.64,cat_013,2025-12,Smith Ltd
+90855.0,cat_014,2025-10,"Anderson, Walls and Duncan"
+7077770.89,cat_014,2025-11,"Anderson, Walls and Duncan"
+7206761.7,cat_014,2025-12,"Anderson, Walls and Duncan"
+89793.57,cat_015,2025-10,Owens-Daniel
+6279507.0,cat_015,2025-11,Owens-Daniel
+6223677.53,cat_015,2025-12,Owens-Daniel
+79657.13,cat_016,2025-10,Wright-Leblanc
+5616860.87,cat_016,2025-11,Wright-Leblanc
+5674323.17,cat_016,2025-12,Wright-Leblanc
+84112.73,cat_017,2025-10,Hancock Inc
+6646969.01,cat_017,2025-11,Hancock Inc
+6600829.69,cat_017,2025-12,Hancock Inc
+84261.97,cat_018,2025-10,Phillips Inc
+6750628.94,cat_018,2025-11,Phillips Inc
+6675048.22,cat_018,2025-12,Phillips Inc
+88526.79,cat_019,2025-10,Powell PLC
+6763484.47,cat_019,2025-11,Powell PLC
+6753890.65,cat_019,2025-12,Powell PLC
+80790.64,cat_020,2025-10,"Brewer, Bryant and Hickman"
+6496790.52,cat_020,2025-11,"Brewer, Bryant and Hickman"
+6295413.45,cat_020,2025-12,"Brewer, Bryant and Hickman"
+86161.93,cat_021,2025-10,Mitchell-Kim
+6789538.63,cat_021,2025-11,Mitchell-Kim
+6774307.5,cat_021,2025-12,Mitchell-Kim
+65527.17,cat_022,2025-10,Preston Ltd
+6198623.72,cat_022,2025-11,Preston Ltd
+6190039.7,cat_022,2025-12,Preston Ltd
+74064.5,cat_023,2025-10,King-Odonnell
+5691806.67,cat_023,2025-11,King-Odonnell
+5785802.62,cat_023,2025-12,King-Odonnell
+90481.43,cat_024,2025-10,"Patterson, Smith and Jones"
+6423914.06,cat_024,2025-11,"Patterson, Smith and Jones"
+6481066.55,cat_024,2025-12,"Patterson, Smith and Jones"
